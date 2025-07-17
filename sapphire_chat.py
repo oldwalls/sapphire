@@ -20,9 +20,9 @@ from transformers import (
     GPT2Tokenizer, GPT2LMHeadModel, Trainer, TrainingArguments, default_data_collator
 )
 from sentence_transformers import SentenceTransformer, util
-import language_tool_python as lt
+#import language_tool_python as lt
 import nltk 
-#nltk.download('punkt') # you can comment out dwnload after first shot gets i
+nltk.download('punkt') # you can comment out dwnload after first shot gets i
 
 from  cli.settings_manager import  handle_settings_command
 ### Hardware check
