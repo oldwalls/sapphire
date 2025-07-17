@@ -1,6 +1,3 @@
-Here is your **Y Combinator–style README rewrite** for **Sapphire Alpha v0.13.3**, tailored to technically literate founders, research-minded hackers, and early-stage cognition system enthusiasts:
-
----
 
 # 🔷 Sapphire Alpha v0.13.3
 
