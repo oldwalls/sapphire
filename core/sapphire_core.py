@@ -777,19 +777,37 @@ class ManualSampler:
                 elif self.sieve_rank_mem == 2:
                     memories = self.mem.retrieve(user_prompt, top_n=self.top_n, payload = 1) # with inference mem
                     for memory in memories:
-                        txt = txt + ' ' + memory[0] # with payload - now return str contains inferences
+                        txt = txt + '. ' + memory[0] # with payload - now return str contains inferences
                 else:
                     txt = txt
                 
     ########################
                 print("📝", end="", flush=True)    
                 ids = self.tok.encode(txt, return_tensors="pt").to(DEVICE)
-
+                                
                 if ids.numel() == 0:                  # empty after blacklist trimming
                     continue
+    
+                # Truncate to model max length if needed
+                MAX_LEN = self.model.config.n_positions  # usually 1024
+                if ids.size(1) > MAX_LEN:
+                    ids = ids[:, -MAX_LEN:]
 
+                # Labels must match input exactly
+                labels = ids.clone()
+
+                # Replace padding (optional)
+                labels[labels == self.tok.pad_token_id] = -100
+
+                # Forward pass
                 with torch.no_grad():
-                    loss = self.model(ids, labels=ids).loss.item()
+                    outputs = self.model(ids)
+                    logits = outputs.logits  # shape: [1, seq_len, vocab]
+                    loss = F.cross_entropy(
+                        logits.view(-1, logits.size(-1)),
+                        labels.view(-1),
+                        ignore_index=-100
+                    )
 
                 draft_strs.append(txt)
                 lm_rewards.append(-loss)
