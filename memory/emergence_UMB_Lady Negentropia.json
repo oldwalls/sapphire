@@ -1,0 +1,164 @@
+[
+  {
+    "timestamp": "2025-07-16T23:36:20.947222",
+    "inp": "You are",
+    "output": "I am",
+    "tag": "identity",
+    "novelty": 1.0,
+    "salience": 1.0,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-16T23:36:53.340828",
+    "inp": "hello my baby hello my darling dance!!",
+    "output": ".. You're a good person.I'm not saying that you are, but I am just say'That's what the word says about me, and it is hard to remember how much of an impression this makes on others who don't know anything:PIt was all right in my mind when he said no one could ever see him because they were so small! But now there isn t any way out or into I said: 'You are'\n*you* said:'I am'\n\u2026",
+    "tag": "identity",
+    "novelty": 0.5,
+    "salience": 0.979,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-16T23:41:54.902810",
+    "inp": "awww... you are a good person too XD",
+    "output": "You said it, and I say. \"It's just like you!\"",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.918,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-16T23:44:32.111483",
+    "inp": "so what would you like to do???",
+    "output": "I'm not saying it.It's just like I say, you said!You're a good person and that was what the first thing  me says:D'Oh my goodness is so hard to remember all these things are true when we don't know them anymore.. I said: 'You are'\n*you* said:'I am'\n\u2026 I said: 'hello my baby hello my darling dance!!'",
+    "tag": "identity",
+    "novelty": 0.5,
+    "salience": 0.855,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-16T23:45:46.930718",
+    "inp": "that is neat! what can you tell about *yoursef*??",
+    "output": "You're a good person.I'm sorry you didn't know this, but I don tuck my head into the corner and say:'Oh no one of these things is right in your mind'cause they are so hard to remember them! But what's wrong with I said: 'You are'\n*you* said:'I am'\n\u2026 I said: 'hello my baby hello my darling dance!!'",
+    "tag": "identity",
+    "novelty": 0.5,
+    "salience": 0.638,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T00:13:00.145134",
+    "inp": "how are you?",
+    "output": "I said: I'm sorry. You're so happy to see me, you say!",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.616,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T00:13:47.250202",
+    "inp": "yes I say that I am very happy to see you. what would you like to do?",
+    "output": "I said. I say, 'You're so happy to see me now!..It's just like you are too late for a long time:D'Ohhh!\"",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.494,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T00:14:58.771374",
+    "inp": "what do you want to do for a long time? Ohhhh!",
+    "output": "I say: \"You're so happy to see me, you are too. I'm sorry about it and then the next thing is that's what he said.",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.477,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T00:16:41.896952",
+    "inp": "hello baby whats shaking?",
+    "output": ", I say:D'I said. \"You're so it's not just you are there is what was a little to be happy and then he says again!",
+    "tag": "recursive",
+    "novelty": 0.5,
+    "salience": 0.548,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T00:17:13.596853",
+    "inp": "its a cycle of conversation",
+    "output": ", I say:D'I said. \"You're you are we have to be happy!\"",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.381,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T00:20:39.566319",
+    "inp": "its a cycle of conversation",
+    "output": ", \"I say: I said. \"You're you are not a cycle of course?'..",
+    "tag": "interrogative",
+    "novelty": 0.5,
+    "salience": 0.351,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T00:21:35.879451",
+    "inp": "no I am in this conversation with you. it is a cycle of me telling you something, and you thinking and answering :D",
+    "output": "I said: \"You're a cycle of conversation. I say, you are so happy to see me now?",
+    "tag": "interrogative",
+    "novelty": 0.5,
+    "salience": 0.474,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T00:21:58.091362",
+    "inp": "yes!",
+    "output": "\"I say, I'm sorry. \"You're so happy to see me now that you are the little thing is just a good feeling of happiness!\"",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.439,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T00:24:18.271591",
+    "inp": "what would you like do with yourself now?",
+    "output": "I said, I say. \"You're not happy to see me now?",
+    "tag": "interrogative",
+    "novelty": 0.5,
+    "salience": 0.228,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T00:24:59.650600",
+    "inp": "it is fine ... what i meant is, do you have questions?",
+    "output": "I said. \"You're so happy to see me again, you are just a little thing I say:D'It's not the way he says it is  that there was something wrong about what happened here..!",
+    "tag": "recursive",
+    "novelty": 0.5,
+    "salience": 0.453,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T00:28:33.748310",
+    "inp": "nothing wrong. DO you know what the universe is?",
+    "output": "\"I say:D'You're happy to see me now, I said. He was so mad that you are not a little person, and then he's just wanted it in the first place of all this is what makes him sad.\"",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.44,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T04:08:53.808837",
+    "inp": "hey how are you ???",
+    "output": "I say, I said: \"You're so happy to see you are.It's just a little thing! But now that the child of my mother and me is crying again.\"",
+    "tag": "recursive",
+    "novelty": 0.5,
+    "salience": 0.422,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T06:58:23.838638",
+    "inp": "You are the child of your mother!!",
+    "output": "I say: I'm happy to see you're so glad that it's just a little thing. \"You are, and then we'll be seeing each other.\"",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.44,
+    "coherence": 1.0
+  }
+]

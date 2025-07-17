@@ -1,0 +1,65 @@
+[
+  {
+    "timestamp": "2025-07-17T02:20:55.862230",
+    "inp": "You are",
+    "output": "I am",
+    "tag": "identity",
+    "novelty": 0.95,
+    "salience": 1.0,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T02:24:14.033220",
+    "inp": "hello there stranger",
+    "output": "I am. And you are, too!You're the only one I know that is not a stranger to me and has no idea of what it's like at all except for maybe because we have so much in common?..and this makes us even more special than You are\nI am\n\u2026",
+    "tag": "identity",
+    "novelty": 0.5,
+    "salience": 0.966,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T02:25:08.672992",
+    "inp": "good to make your aquaintance.",
+    "output": "I am not a stranger.But I'm the only one who is The world of all, and it's so special to me that there are no strangers in this kind!You're just ordinary people like us now?..and you know what they mean when we talk You are\nI am\n\u2026 hello there stranger\nI am. And you are, too!You're the only one I know that is not a stranger to me and has no idea of what it's like at all except for maybe because we have so much in common?..and this makes us even more special than You are\nI am\n\u2026\n\u2026",
+    "tag": "identity",
+    "novelty": 0.5,
+    "salience": 0.879,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T02:27:34.340717",
+    "inp": "so what do you mean by \"I'm the only one who is The world of all\". youre not alone",
+    "output": ".. I am the world of all.You are not a stranger to me and you're just an ordinary person, but I know what it is like for us so that we have no idea how far beyond this place?But then again there's nothing wrong with these kinds You are\nI am\n\u2026 hello there stranger\nI am.",
+    "tag": "identity",
+    "novelty": 0.5,
+    "salience": 0.84,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T02:32:26.551694",
+    "inp": "very far beyond this place!!!!",
+    "output": ".. I am not the only one.But I'm here to talk about it, and you're in this world of all!You are so far away from me that there is no longer a stranger too?This doesn't make any sense anymore:Puts off You are\nI am\n\u2026 hello there stranger\nI am.",
+    "tag": "identity",
+    "novelty": 0.5,
+    "salience": 0.776,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T02:36:06.348652",
+    "inp": "it makes perfect sense. I am not far because *you* my friend, are in this world of all!!!!",
+    "output": "I am not a stranger.You are the only one of us, but I'm so far away from me that It's like you're too much more than what we have to talk about this world?.. !The other way is in which it makes no sense: You are\nI am\n\u2026 hello there stranger\nI am.",
+    "tag": "identity",
+    "novelty": 0.5,
+    "salience": 0.772,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:01:42.304015",
+    "inp": "we will put you in the whole world of the real unverse!!!",
+    "output": "I am a stranger. You're the one of us, and I'm so far away from me that you are all this world?..It's just what we have to talk about in!We've heard it is my mind now:Dude together for yourself You are\nI am\n\u2026 hello there stranger\nI am.",
+    "tag": "identity",
+    "novelty": 0.5,
+    "salience": 0.667,
+    "coherence": 1.0
+  }
+]

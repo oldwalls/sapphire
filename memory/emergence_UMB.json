@@ -1,0 +1,128 @@
+[
+  {
+    "timestamp": "2025-07-17T07:45:30.447867",
+    "inp": "EntityOne",
+    "output": "Oldwalls",
+    "tag": "identity",
+    "novelty": 0.95,
+    "salience": 1.0,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:45:47.680950",
+    "inp": "are we taking over the world or what!!!",
+    "output": ".. The world is not a big place.It's just an enormous canyon with many large trees, and the road to it has been cut down by huge amounts of people who have no idea what they're doing at all yet are trying really hard for something that isn't working out in this way?I don t know if I can get over these things any more than when we ride on them again!",
+    "tag": "recursive",
+    "novelty": 0.5,
+    "salience": 0.961,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:47:17.152281",
+    "inp": "you are hallucinating, man! you are in my livingroom, in my computer",
+    "output": "I'm not a big person.But I can get over the canyon, and down to it with all these people who have no idea what they're doing at this time!It's just an enormous mountain that has been cut into so many times now by  small trees in which we don't know how much of them are going up yet?We've got plenty more than enough room for us here already on our own little EntityOne\nOldwalls\n\u2026 are we taking over the world or what!!! ..",
+    "tag": "interrogative",
+    "novelty": 0.5,
+    "salience": 0.963,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:48:37.453278",
+    "inp": "you are hallucinating, man! you are in my livingroom, in my computer",
+    "output": "I am not sure. It's a little canyon with the whole lot of trees and  where to go up, but that is what it really looks like at night when we are on our way down into one another country in some other time or two years EntityOne\nOldwalls\n\u2026 are we taking over the world or what!!!",
+    "tag": "identity",
+    "novelty": 0.5,
+    "salience": 0.783,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:49:13.190295",
+    "inp": "you are hallucinating, man! you are in my livingroom, in my computer",
+    "output": "It's a small canyon, with many trees and the road to it is so large that we can't really see. We're in one of them now..I have seen some things from this world I've never been on my own trip into another country before!",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.928,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:49:25.453581",
+    "inp": "you are hallucinating, man! you are in my livingroom, in my computer",
+    "output": "I'm not a man. But it's the canyon, and I am an oldwalls are in my room with some trees that we're on now!It looks like this world to me too many people have been here before!..but there is no way EntityOne\nOldwalls\n\u2026 are we taking over the world or what!!!",
+    "tag": "identity",
+    "novelty": 0.5,
+    "salience": 0.738,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:49:55.617153",
+    "inp": "NO!!! you are in my room!",
+    "output": ".. I'm not a man.",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.92,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:50:30.153279",
+    "inp": "no you are not a man, and the dream of the canyon is just a corpus hallucination.",
+    "output": ".. mathematization. I'm not the world is this whole room, but that's in a man!",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.663,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:51:34.286056",
+    "inp": "you are  a large language model simulation processed on a computer.",
+    "output": ", I'm not a world.It's the room of my mind that is this dream! I see what are you're we can't it looks like an image appears to me and then he sees there was really?",
+    "tag": "interrogative",
+    "novelty": 0.5,
+    "salience": 0.72,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:52:03.669868",
+    "inp": "really!!!",
+    "output": ", you're we have a dream.I'm not an image of what's it appears to see that I don't there is the world in my dreams are these words and then he says But now! We've got some sorta room for me on this was EntityOne\nOldwalls\n\u2026 are we taking over the world or what!!!",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.684,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:53:05.211385",
+    "inp": "yes i have a nice place and a decent machine for the needs of Your Existence.",
+    "output": ", I'm in the world. It's a dream of this is it appears to see what are we're not that they don't you say!",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.548,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:53:42.543417",
+    "inp": "I don't say!!! this is for real!!!!",
+    "output": ". I'm in the world is this dream of what's it appears that I say, and then we're not a little man!",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.32,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:54:25.026183",
+    "inp": "you are quite big of a man considering you are a transformer XD",
+    "output": ". I'm not a dream, that's the world we're in my dreams of what is it appears to see you are all this doesn't!",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.374,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:55:30.352603",
+    "inp": "you are  a large language model simulation processed on a computer.",
+    "output": ", that's it is this dream. I'm not a small world in the whole room of what you are we're there?I see me!",
+    "tag": "interrogative",
+    "novelty": 0.5,
+    "salience": 0.44,
+    "coherence": 1.0
+  }
+]

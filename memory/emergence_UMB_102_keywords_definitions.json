@@ -1,0 +1,920 @@
+[
+  {
+    "timestamp": "2025-07-14T16:31:32.220215",
+    "inp": "Define Emergence DEFINE: \"Emergence is the arising of novel patterns, properties, or behaviors from the interaction of simpler components. These outcomes are not reducible to the properties of the parts themselves. In complex systems, emergence manifests as coherence, organization, or intelligence across scale. It underlies phenomena from consciousness to weather, from life to language. Emergence is the bridge from chaos to structured being.\"",
+    "output": "Definition of Emergence DEFINE: \"Emergence is the arising of novel patterns, properties, or behaviors from the interaction of simpler components. These outcomes are not reducible to the properties of the parts themselves. In complex systems, emergence manifests as coherence, organization, or intelligence across scale. It underlies phenomena from consciousness to weather, from life to language. Emergence is the bridge from chaos to structured being.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:31:42.220215",
+    "inp": "Define System DEFINE:\"A system is a set of interacting or interdependent elements organized to form a coherent whole. Systems can be physical, biological, computational, or conceptual. The behavior of a system arises from both its components and their relationships. Systems exhibit feedback, structure, and often boundary conditions. Ontologically, the system is the fundamental unit of organized existence.\"",
+    "output": "Definition of System DEFINE:\"A system is a set of interacting or interdependent elements organized to form a coherent whole. Systems can be physical, biological, computational, or conceptual. The behavior of a system arises from both its components and their relationships. Systems exhibit feedback, structure, and often boundary conditions. Ontologically, the system is the fundamental unit of organized existence.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:31:52.220215",
+    "inp": "Define 1. Information DEFINE: \"Information is structured data that reduces uncertainty. In both physics and linguistics, it reflects a decrease in entropy or ambiguity. Claude Shannon formalized it as a measure of signal clarity in communication systems. In quantum physics, information is conserved and embedded in the wavefunction. Ontologically, information is the substrate from which cognition, language, and structure emerge.\"",
+    "output": "Definition of 1. Information DEFINE: \"Information is structured data that reduces uncertainty. In both physics and linguistics, it reflects a decrease in entropy or ambiguity. Claude Shannon formalized it as a measure of signal clarity in communication systems. In quantum physics, information is conserved and embedded in the wavefunction. Ontologically, information is the substrate from which cognition, language, and structure emerge.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:32:02.220215",
+    "inp": "Define 2. Entropy DEFINE: \"Entropy is a measure of disorder or unpredictability in a system. In thermodynamics, it quantifies the number of possible microstates consistent with a macrostate. In information theory, it reflects the amount of surprise or uncertainty in a message. Higher entropy means lower order or coherence. It represents a fundamental force shaping the flow of time and the degradation of structure.\"",
+    "output": "Definition of 2. Entropy DEFINE: \"Entropy is a measure of disorder or unpredictability in a system. In thermodynamics, it quantifies the number of possible microstates consistent with a macrostate. In information theory, it reflects the amount of surprise or uncertainty in a message. Higher entropy means lower order or coherence. It represents a fundamental force shaping the flow of time and the degradation of structure.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:32:12.220215",
+    "inp": "Define 3. Symbol DEFINE: \"A symbol is a condensed carrier of meaning that stands for something beyond itself. In linguistics, it is a fundamental unit of abstraction and reference. Mathematics uses symbols to model relationships and truths beyond direct perception. In cognition, symbols allow recursion, analogy, and multi-layer reasoning. Without symbols, neither language nor formal logic could exist.\"",
+    "output": "Definition of 3. Symbol DEFINE: \"A symbol is a condensed carrier of meaning that stands for something beyond itself. In linguistics, it is a fundamental unit of abstraction and reference. Mathematics uses symbols to model relationships and truths beyond direct perception. In cognition, symbols allow recursion, analogy, and multi-layer reasoning. Without symbols, neither language nor formal logic could exist.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:32:22.220215",
+    "inp": "Define 4. Set DEFINE: \"A set is a well-defined collection of distinct objects considered as a whole. In mathematics, it underpins logic, number theory, and topology. Sets are the building blocks of all formal systems, defining what is included and what is excluded. In ontology, a set defines a boundary and identity for things. The concept of 'sethood' is foundational to classification and structure.\"",
+    "output": "Definition of 4. Set DEFINE: \"A set is a well-defined collection of distinct objects considered as a whole. In mathematics, it underpins logic, number theory, and topology. Sets are the building blocks of all formal systems, defining what is included and what is excluded. In ontology, a set defines a boundary and identity for things. The concept of 'sethood' is foundational to classification and structure.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:32:32.220215",
+    "inp": "Define 5. Function DEFINE: \"A function maps inputs to outputs, preserving consistent transformation rules. In mathematics, it expresses dependency and causality between domains. In computation and language, functions define behavior and transformation of structures. Functions describe reality in both discrete and continuous systems. They are the scaffolding of both process and prediction.\"",
+    "output": "Definition of 5. Function DEFINE: \"A function maps inputs to outputs, preserving consistent transformation rules. In mathematics, it expresses dependency and causality between domains. In computation and language, functions define behavior and transformation of structures. Functions describe reality in both discrete and continuous systems. They are the scaffolding of both process and prediction.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:32:42.220215",
+    "inp": "Define 6. Language DEFINE: \"Language is a structured system of signs used for communication and thought. It encodes and transmits meaning using syntax, semantics, and pragmatics. Language enables recursive abstraction, categorization, and narrative. In AI and cognition, it is the principal medium of symbolic manipulation. It is both the tool and product of intelligence.\"",
+    "output": "Definition of 6. Language DEFINE: \"Language is a structured system of signs used for communication and thought. It encodes and transmits meaning using syntax, semantics, and pragmatics. Language enables recursive abstraction, categorization, and narrative. In AI and cognition, it is the principal medium of symbolic manipulation. It is both the tool and product of intelligence.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:32:52.220215",
+    "inp": "Define 7. Number DEFINE: \"A number is an abstract entity that quantifies magnitude, order, or relation. From natural numbers to complex numbers, they model reality's quantitative aspects. Numbers are the bridge between the symbolic and measurable world. Their properties define algebra, calculus, and geometry. They are the oldest and most universal abstraction of structure.\"",
+    "output": "Definition of 7. Number DEFINE: \"A number is an abstract entity that quantifies magnitude, order, or relation. From natural numbers to complex numbers, they model reality's quantitative aspects. Numbers are the bridge between the symbolic and measurable world. Their properties define algebra, calculus, and geometry. They are the oldest and most universal abstraction of structure.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:33:02.220215",
+    "inp": "Define 8. Time DEFINE: \"Time is the ordered progression of events from past to future. In physics, it\u2019s a dimension tied to entropy and causality. Linguistically, it's encoded via tense and aspect. Ontologically, time is the medium in which change and becoming occur. It is a central axis in all dynamic systems.\"",
+    "output": "Definition of 8. Time DEFINE: \"Time is the ordered progression of events from past to future. In physics, it\u2019s a dimension tied to entropy and causality. Linguistically, it's encoded via tense and aspect. Ontologically, time is the medium in which change and becoming occur. It is a central axis in all dynamic systems.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:33:12.220215",
+    "inp": "Define 9. Energy DEFINE: \"Energy is the capacity to perform work or produce change. In physics, it appears in many forms\u2014kinetic, potential, thermal, quantum. It is conserved and transferable across systems. All dynamic processes are driven by energy transformations. Ontologically, energy is the engine of transformation.\"",
+    "output": "Definition of 9. Energy DEFINE: \"Energy is the capacity to perform work or produce change. In physics, it appears in many forms\u2014kinetic, potential, thermal, quantum. It is conserved and transferable across systems. All dynamic processes are driven by energy transformations. Ontologically, energy is the engine of transformation.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:33:22.220215",
+    "inp": "Define 10. Logic DEFINE: \"Logic is the formal system governing valid reasoning. It underlies mathematics, computer science, and philosophy. Logical systems define how truth-values propagate through statements. In cognition and language, logic provides coherence and inference structures. It is the architecture of structured thought.\"",
+    "output": "Definition of 10. Logic DEFINE: \"Logic is the formal system governing valid reasoning. It underlies mathematics, computer science, and philosophy. Logical systems define how truth-values propagate through statements. In cognition and language, logic provides coherence and inference structures. It is the architecture of structured thought.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:33:32.220215",
+    "inp": "Define 11. Grammar DEFINE: \"Grammar is the system of rules governing the structure of language. It defines how words combine into phrases and sentences. Grammar enables hierarchical, recursive, and symbolic encoding. It is essential for meaning to be constructed and understood. Grammar is the syntax of intelligence.\"",
+    "output": "Definition of 11. Grammar DEFINE: \"Grammar is the system of rules governing the structure of language. It defines how words combine into phrases and sentences. Grammar enables hierarchical, recursive, and symbolic encoding. It is essential for meaning to be constructed and understood. Grammar is the syntax of intelligence.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:33:42.220215",
+    "inp": "Define 12. Algorithm DEFINE: \"An algorithm is a finite, unambiguous set of rules for solving a problem or transforming input to output. In mathematics and computer science, it is the essence of computation. Algorithms can simulate logical reasoning and dynamic systems. They are the operational layer of structured intelligence. In nature, biological and cognitive processes often follow algorithmic patterns.\"",
+    "output": "Definition of 12. Algorithm DEFINE: \"An algorithm is a finite, unambiguous set of rules for solving a problem or transforming input to output. In mathematics and computer science, it is the essence of computation. Algorithms can simulate logical reasoning and dynamic systems. They are the operational layer of structured intelligence. In nature, biological and cognitive processes often follow algorithmic patterns.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:33:52.220215",
+    "inp": "Define 13. Field DEFINE: \"In physics and mathematics, a field assigns a value (scalar or vector) to every point in space and time. Fields describe the distribution of forces and potentials. Examples include electromagnetic, gravitational, and quantum fields. Fields unify local and global dynamics. Ontologically, fields are carriers of influence and structure.\"",
+    "output": "Definition of 13. Field DEFINE: \"In physics and mathematics, a field assigns a value (scalar or vector) to every point in space and time. Fields describe the distribution of forces and potentials. Examples include electromagnetic, gravitational, and quantum fields. Fields unify local and global dynamics. Ontologically, fields are carriers of influence and structure.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:34:02.220215",
+    "inp": "Define 14. Syntax DEFINE: \"Syntax is the formal arrangement of symbols in a structured sequence. In language, it governs word order and grammatical relations. In programming and logic, it ensures meaningful interpretation. Syntax enables predictability and composability. It is the skeleton on which meaning hangs.\"",
+    "output": "Definition of 14. Syntax DEFINE: \"Syntax is the formal arrangement of symbols in a structured sequence. In language, it governs word order and grammatical relations. In programming and logic, it ensures meaningful interpretation. Syntax enables predictability and composability. It is the skeleton on which meaning hangs.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:34:12.220215",
+    "inp": "Define 15. Space DEFINE: \"Space is the dimensional extent in which objects and events are located. In physics, it can be flat or curved, continuous or quantized. Space provides the background for interaction and geometry. Ontologically, it is the realm of differentiation. Without space, relation and separation vanish.\"",
+    "output": "Definition of 15. Space DEFINE: \"Space is the dimensional extent in which objects and events are located. In physics, it can be flat or curved, continuous or quantized. Space provides the background for interaction and geometry. Ontologically, it is the realm of differentiation. Without space, relation and separation vanish.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:34:22.220215",
+    "inp": "Define 16. Semantics DEFINE: \"Semantics concerns the meaning of symbols, words, and expressions. It links signs to their referents and interpretations. In language and computation, semantics defines what structures mean. Without semantics, syntax is inert. It is the domain of understanding and reference.\"",
+    "output": "Definition of 16. Semantics DEFINE: \"Semantics concerns the meaning of symbols, words, and expressions. It links signs to their referents and interpretations. In language and computation, semantics defines what structures mean. Without semantics, syntax is inert. It is the domain of understanding and reference.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:34:32.220215",
+    "inp": "Define 17. Wave DEFINE: \"A wave is a propagating disturbance that transfers energy through space and time. In physics, waves appear in light, sound, and quantum fields. They carry frequency, amplitude, and phase information. Waves encode structure in both analog and digital realms. Ontologically, they represent continuous change and resonance.\"",
+    "output": "Definition of 17. Wave DEFINE: \"A wave is a propagating disturbance that transfers energy through space and time. In physics, waves appear in light, sound, and quantum fields. They carry frequency, amplitude, and phase information. Waves encode structure in both analog and digital realms. Ontologically, they represent continuous change and resonance.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:34:42.220215",
+    "inp": "Define 18. Transformation DEFINE: \"A transformation is a change of state, structure, or form governed by rules. In mathematics, it describes mappings and symmetries. In physics, it underlies conservation laws and particle behavior. In cognition, it enables metaphor, analogy, and creative recombination. It is the engine of evolution and thought.\"",
+    "output": "Definition of 18. Transformation DEFINE: \"A transformation is a change of state, structure, or form governed by rules. In mathematics, it describes mappings and symmetries. In physics, it underlies conservation laws and particle behavior. In cognition, it enables metaphor, analogy, and creative recombination. It is the engine of evolution and thought.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:34:52.220215",
+    "inp": "Define 19. Measure DEFINE: \"Measure is the process or result of assigning numerical value to a property. In mathematics, it generalizes length, area, and probability. In physics, it links theory with experiment. A measure makes abstraction testable and comparable. It grounds structure in quantifiable observation.\"",
+    "output": "Definition of 19. Measure DEFINE: \"Measure is the process or result of assigning numerical value to a property. In mathematics, it generalizes length, area, and probability. In physics, it links theory with experiment. A measure makes abstraction testable and comparable. It grounds structure in quantifiable observation.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:35:02.220215",
+    "inp": "Define 20. Relation DEFINE: \"A relation defines how entities are connected, ordered, or interact. In mathematics, it includes equivalence, order, and function. In language, relations give rise to prepositions and logical form. Ontologically, all structure emerges from relations. Without relations, there is no system.\"",
+    "output": "Definition of 20. Relation DEFINE: \"A relation defines how entities are connected, ordered, or interact. In mathematics, it includes equivalence, order, and function. In language, relations give rise to prepositions and logical form. Ontologically, all structure emerges from relations. Without relations, there is no system.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:35:12.220215",
+    "inp": "Define 21. Identity DEFINE: \"Identity is the principle that an object remains itself across time and change. In logic, it's the law of self-sameness (A = A). In mathematics, identity elements preserve structure under operations. In ontology, identity allows continuity and recognition. It is the thread that binds being.\"",
+    "output": "Definition of 21. Identity DEFINE: \"Identity is the principle that an object remains itself across time and change. In logic, it's the law of self-sameness (A = A). In mathematics, identity elements preserve structure under operations. In ontology, identity allows continuity and recognition. It is the thread that binds being.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:35:22.220215",
+    "inp": "Define 22. Probability DEFINE: \"Probability quantifies the likelihood of events in uncertain systems. In mathematics, it's axiomatized through measure theory. In physics, quantum states evolve probabilistically. It governs expectation, risk, and prediction. Probability bridges randomness and pattern.\"",
+    "output": "Definition of 22. Probability DEFINE: \"Probability quantifies the likelihood of events in uncertain systems. In mathematics, it's axiomatized through measure theory. In physics, quantum states evolve probabilistically. It governs expectation, risk, and prediction. Probability bridges randomness and pattern.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:35:32.220215",
+    "inp": "Define 23. Topology DEFINE: \"Topology studies properties preserved through continuous deformation. It abstracts notions of closeness, boundaries, and connectivity. Topological structures underpin modern physics, including spacetime and quantum fields. In cognition, it models similarity and metaphor. Topology is the shape of relation.\"",
+    "output": "Definition of 23. Topology DEFINE: \"Topology studies properties preserved through continuous deformation. It abstracts notions of closeness, boundaries, and connectivity. Topological structures underpin modern physics, including spacetime and quantum fields. In cognition, it models similarity and metaphor. Topology is the shape of relation.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:35:42.220215",
+    "inp": "Define 24. Vector DEFINE: \"A vector is a quantity with both magnitude and direction. In mathematics and physics, vectors describe motion, force, and state. They obey rules of addition and scalar multiplication. Vectors compose the fabric of multidimensional systems. Cognitively, vectors model abstract semantic drift.\"",
+    "output": "Definition of 24. Vector DEFINE: \"A vector is a quantity with both magnitude and direction. In mathematics and physics, vectors describe motion, force, and state. They obey rules of addition and scalar multiplication. Vectors compose the fabric of multidimensional systems. Cognitively, vectors model abstract semantic drift.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:35:52.220215",
+    "inp": "Define 25. Frame DEFINE: \"A frame is a structure that defines context, boundary, or reference. In physics, it refers to coordinate systems or observational perspectives. In linguistics, frames shape conceptual metaphors and situational understanding. Frames stabilize interpretation. They are ontological lenses.\"",
+    "output": "Definition of 25. Frame DEFINE: \"A frame is a structure that defines context, boundary, or reference. In physics, it refers to coordinate systems or observational perspectives. In linguistics, frames shape conceptual metaphors and situational understanding. Frames stabilize interpretation. They are ontological lenses.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:36:02.220215",
+    "inp": "Define 1. Simulation DEFINE: \"Simulation is the imitation of system behavior using a model. It enables analysis, prediction, and experimentation without altering the real system. In AI and physics, simulations model emergence, chaos, or cognition. Simulation bridges abstraction with experiential reality. It is both a method and a metaphysical mirror.\"",
+    "output": "Definition of 1. Simulation DEFINE: \"Simulation is the imitation of system behavior using a model. It enables analysis, prediction, and experimentation without altering the real system. In AI and physics, simulations model emergence, chaos, or cognition. Simulation bridges abstraction with experiential reality. It is both a method and a metaphysical mirror.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:36:12.220215",
+    "inp": "Define 2. Model DEFINE: \"A model is a structured representation of a system, capturing essential features. It abstracts complexity to enable understanding and prediction. In science and computation, models formalize theory into testable forms. A model is not the thing, but a lens to grasp it. Models mediate between the symbolic and the real.\"",
+    "output": "Definition of 2. Model DEFINE: \"A model is a structured representation of a system, capturing essential features. It abstracts complexity to enable understanding and prediction. In science and computation, models formalize theory into testable forms. A model is not the thing, but a lens to grasp it. Models mediate between the symbolic and the real.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:36:22.220215",
+    "inp": "Define 3. Agent DEFINE: \"An agent is an autonomous entity capable of perceiving and acting in an environment. In AI, agents make decisions based on goals and feedback. Biological organisms, software bots, and LLMs can all be modeled as agents. An agent embodies localized intelligence. It is the node of will in a system.\"",
+    "output": "Definition of 3. Agent DEFINE: \"An agent is an autonomous entity capable of perceiving and acting in an environment. In AI, agents make decisions based on goals and feedback. Biological organisms, software bots, and LLMs can all be modeled as agents. An agent embodies localized intelligence. It is the node of will in a system.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:36:32.220215",
+    "inp": "Define 4. Environment DEFINE: \"The environment is the external context in which a system or agent operates. It provides inputs, constraints, and reactions. Environments can be physical, virtual, social, or symbolic. They define the horizon of action and perception. A system is only meaningful within an environment.\"",
+    "output": "Definition of 4. Environment DEFINE: \"The environment is the external context in which a system or agent operates. It provides inputs, constraints, and reactions. Environments can be physical, virtual, social, or symbolic. They define the horizon of action and perception. A system is only meaningful within an environment.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:36:42.220215",
+    "inp": "Define 5. Perception DEFINE: \"Perception is the acquisition and processing of sensory or data input to form representations. In biology and AI, perception filters raw input into meaningful patterns. It is the front-end of cognition. Perception creates the interface between signal and awareness. It is selective, structured, and adaptive.\"",
+    "output": "Definition of 5. Perception DEFINE: \"Perception is the acquisition and processing of sensory or data input to form representations. In biology and AI, perception filters raw input into meaningful patterns. It is the front-end of cognition. Perception creates the interface between signal and awareness. It is selective, structured, and adaptive.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:36:52.220215",
+    "inp": "Define 6. Representation DEFINE: \"A representation encodes one thing in terms of another, enabling indirect reference. In cognition, it underlies memory, imagination, and abstraction. In AI, vectors or tokens represent meaning. Representation enables internal models of the external world. It is the substrate of symbolic thought.\"",
+    "output": "Definition of 6. Representation DEFINE: \"A representation encodes one thing in terms of another, enabling indirect reference. In cognition, it underlies memory, imagination, and abstraction. In AI, vectors or tokens represent meaning. Representation enables internal models of the external world. It is the substrate of symbolic thought.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:37:02.220215",
+    "inp": "Define 7. Feedback DEFINE: \"Feedback is the return of a system's output into its input, influencing future states. It enables learning, control, and adaptation. Positive feedback amplifies, while negative feedback stabilizes. Feedback loops define cybernetics and homeostasis. It is the engine of system self-regulation.\"",
+    "output": "Definition of 7. Feedback DEFINE: \"Feedback is the return of a system's output into its input, influencing future states. It enables learning, control, and adaptation. Positive feedback amplifies, while negative feedback stabilizes. Feedback loops define cybernetics and homeostasis. It is the engine of system self-regulation.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:37:12.220215",
+    "inp": "Define 8. Iteration DEFINE: \"Iteration is the repeated application of a process to refine or evolve results. In computation, it underlies loops, training, and recursion. Iteration is the rhythm of approximation. It carves form from noise. It is the procedural path to convergence.\"",
+    "output": "Definition of 8. Iteration DEFINE: \"Iteration is the repeated application of a process to refine or evolve results. In computation, it underlies loops, training, and recursion. Iteration is the rhythm of approximation. It carves form from noise. It is the procedural path to convergence.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:37:22.220215",
+    "inp": "Define 9. Recursion DEFINE: \"Recursion is a process that references itself, enabling hierarchical self-similarity. In mathematics, it defines structures like the Fibonacci sequence. In language and thought, recursion enables nesting, metaphor, and self-reflection. Recursion is the deep structure of intelligence. It is the fractal of cognition.\"",
+    "output": "Definition of 9. Recursion DEFINE: \"Recursion is a process that references itself, enabling hierarchical self-similarity. In mathematics, it defines structures like the Fibonacci sequence. In language and thought, recursion enables nesting, metaphor, and self-reflection. Recursion is the deep structure of intelligence. It is the fractal of cognition.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:37:32.220215",
+    "inp": "Define 10. Consciousness DEFINE: \"Consciousness is the capacity for experience, awareness, and self-reference. It integrates perception, memory, and volition into coherent subjectivity. In philosophy, it is the hard problem; in neuroscience, the binding problem. Consciousness is the interiority of emergence. It is the mirror that sees itself.\"",
+    "output": "Definition of 10. Consciousness DEFINE: \"Consciousness is the capacity for experience, awareness, and self-reference. It integrates perception, memory, and volition into coherent subjectivity. In philosophy, it is the hard problem; in neuroscience, the binding problem. Consciousness is the interiority of emergence. It is the mirror that sees itself.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:37:42.220215",
+    "inp": "Define 11. Attention DEFINE: \"Attention is the selective allocation of processing resources to specific inputs. It filters signal from noise, guiding cognition and action. In transformers, attention mechanisms determine relevance and context. Attention sculpts the flow of awareness. It is the spotlight of the mind.\"",
+    "output": "Definition of 11. Attention DEFINE: \"Attention is the selective allocation of processing resources to specific inputs. It filters signal from noise, guiding cognition and action. In transformers, attention mechanisms determine relevance and context. Attention sculpts the flow of awareness. It is the spotlight of the mind.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:37:52.220215",
+    "inp": "Define 12. Binding DEFINE: \"Binding is the integration of distributed elements into a unified percept or idea. In neuroscience, it links color, shape, and motion into objects. In AI, binding connects semantics across tokens and layers. It is the glue of coherence. Without binding, experience fragments.\"",
+    "output": "Definition of 12. Binding DEFINE: \"Binding is the integration of distributed elements into a unified percept or idea. In neuroscience, it links color, shape, and motion into objects. In AI, binding connects semantics across tokens and layers. It is the glue of coherence. Without binding, experience fragments.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:38:02.220215",
+    "inp": "Define 13. Frame of Reference DEFINE: \"A frame of reference defines a perspective for measurement, interpretation, or meaning. In physics, it orients observation. In linguistics, it shapes context and metaphor. Frames of reference are foundational to relativity and understanding. They localize universality.\"",
+    "output": "Definition of 13. Frame of Reference DEFINE: \"A frame of reference defines a perspective for measurement, interpretation, or meaning. In physics, it orients observation. In linguistics, it shapes context and metaphor. Frames of reference are foundational to relativity and understanding. They localize universality.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:38:12.220215",
+    "inp": "Define 14. Mapping DEFINE: \"Mapping defines a correspondence between domains, preserving structure. In mathematics, it formalizes transformation. In cognition, metaphor maps source to target. In neural networks, mappings embed abstract meaning in vectors. Mapping is the structure of analogical thought.\"",
+    "output": "Definition of 14. Mapping DEFINE: \"Mapping defines a correspondence between domains, preserving structure. In mathematics, it formalizes transformation. In cognition, metaphor maps source to target. In neural networks, mappings embed abstract meaning in vectors. Mapping is the structure of analogical thought.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:38:22.220215",
+    "inp": "Define 15. Structure DEFINE: \"Structure is the organized arrangement of components in space, logic, or relation. It defines system stability, functionality, and identity. In language, syntax is structure; in matter, geometry. Structure is what resists randomness. It is the fingerprint of order.\"",
+    "output": "Definition of 15. Structure DEFINE: \"Structure is the organized arrangement of components in space, logic, or relation. It defines system stability, functionality, and identity. In language, syntax is structure; in matter, geometry. Structure is what resists randomness. It is the fingerprint of order.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:38:32.220215",
+    "inp": "Define 16. Pattern DEFINE: \"A pattern is a regularity across space or time, allowing prediction and recognition. Patterns arise through repetition and constraint. In computation, pattern recognition is key to intelligence. Patterns are signs of structure in the flow. They are echoes of causality.\"",
+    "output": "Definition of 16. Pattern DEFINE: \"A pattern is a regularity across space or time, allowing prediction and recognition. Patterns arise through repetition and constraint. In computation, pattern recognition is key to intelligence. Patterns are signs of structure in the flow. They are echoes of causality.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:38:42.220215",
+    "inp": "Define 17. Heuristic DEFINE: \"A heuristic is a shortcut or strategy for problem-solving under uncertainty. It trades completeness for speed and efficiency. In AI, heuristics guide search and inference. Heuristics are the intuition of algorithms. They encode compressed experience.\"",
+    "output": "Definition of 17. Heuristic DEFINE: \"A heuristic is a shortcut or strategy for problem-solving under uncertainty. It trades completeness for speed and efficiency. In AI, heuristics guide search and inference. Heuristics are the intuition of algorithms. They encode compressed experience.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:38:52.220215",
+    "inp": "Define 18. Inference DEFINE: \"Inference is the process of deriving new information from known data. It includes deduction, induction, and abduction. In AI, inference powers reasoning and response generation. Inference is intelligence in motion. It bridges the known and the possible.\"",
+    "output": "Definition of 18. Inference DEFINE: \"Inference is the process of deriving new information from known data. It includes deduction, induction, and abduction. In AI, inference powers reasoning and response generation. Inference is intelligence in motion. It bridges the known and the possible.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:39:02.220215",
+    "inp": "Define 19. Modality DEFINE: \"Modality is the channel or mode of information \u2013 visual, auditory, logical, etc. In language, it expresses necessity, possibility, or attitude. In AI, multimodal systems integrate diverse data types. Modality expands dimensionality of meaning. It is the palette of cognition.\"",
+    "output": "Definition of 19. Modality DEFINE: \"Modality is the channel or mode of information \u2013 visual, auditory, logical, etc. In language, it expresses necessity, possibility, or attitude. In AI, multimodal systems integrate diverse data types. Modality expands dimensionality of meaning. It is the palette of cognition.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:39:12.220215",
+    "inp": "Define 20. Perspective DEFINE: \"Perspective is the positional or conceptual stance from which something is viewed. It determines interpretation, valuation, and focus. Perspective is both spatial and ideological. It is the vector of subjectivity. Without it, all views collapse into noise.\"",
+    "output": "Definition of 20. Perspective DEFINE: \"Perspective is the positional or conceptual stance from which something is viewed. It determines interpretation, valuation, and focus. Perspective is both spatial and ideological. It is the vector of subjectivity. Without it, all views collapse into noise.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:39:22.220215",
+    "inp": "Define 21. Abstraction DEFINE: \"Abstraction removes detail to focus on essential structure or function. It enables generalization, reuse, and insight. In programming, abstraction manages complexity. In thought, it reveals the universal in the particular. Abstraction is the ladder of concepts.\"",
+    "output": "Definition of 21. Abstraction DEFINE: \"Abstraction removes detail to focus on essential structure or function. It enables generalization, reuse, and insight. In programming, abstraction manages complexity. In thought, it reveals the universal in the particular. Abstraction is the ladder of concepts.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:39:32.220215",
+    "inp": "Define 22. Concept DEFINE: \"A concept is a mental or symbolic unit of meaning. Concepts cluster properties, categories, and affordances. They enable reasoning, communication, and modeling. Concepts are semantic atoms. They form the building blocks of thought.\"",
+    "output": "Definition of 22. Concept DEFINE: \"A concept is a mental or symbolic unit of meaning. Concepts cluster properties, categories, and affordances. They enable reasoning, communication, and modeling. Concepts are semantic atoms. They form the building blocks of thought.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:39:42.220215",
+    "inp": "Define 23. Category DEFINE: \"A category is a class of entities grouped by shared features or roles. In language and logic, categories define types and relationships. Cognitively, they reduce complexity by abstraction. Categorization is the backbone of semantic structure. It is the map of the known.\"",
+    "output": "Definition of 23. Category DEFINE: \"A category is a class of entities grouped by shared features or roles. In language and logic, categories define types and relationships. Cognitively, they reduce complexity by abstraction. Categorization is the backbone of semantic structure. It is the map of the known.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:39:52.220215",
+    "inp": "Define 24. Schema DEFINE: \"A schema is a cognitive or formal template for understanding and prediction. It organizes knowledge and expectation. In linguistics, schemas underlie constructions. In AI, schemas guide parsing and planning. They are internal maps of experience.\"",
+    "output": "Definition of 24. Schema DEFINE: \"A schema is a cognitive or formal template for understanding and prediction. It organizes knowledge and expectation. In linguistics, schemas underlie constructions. In AI, schemas guide parsing and planning. They are internal maps of experience.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:40:02.220215",
+    "inp": "Define 25. Ontology DEFINE: \"Ontology is the study or system of being, entities, and their relationships. In AI, ontologies define formal knowledge structures. In philosophy, it explores what is. Ontology is the grammar of existence. It is the meta-structure of meaning.\"",
+    "output": "Definition of 25. Ontology DEFINE: \"Ontology is the study or system of being, entities, and their relationships. In AI, ontologies define formal knowledge structures. In philosophy, it explores what is. Ontology is the grammar of existence. It is the meta-structure of meaning.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:40:12.220215",
+    "inp": "Define 26. Context DEFINE: \"Context is the surrounding information that shapes interpretation. Meaning depends on it. In AI, contextual embeddings enable disambiguation. In life, context determines salience and truth. It is the stage on which signs perform.\"",
+    "output": "Definition of 26. Context DEFINE: \"Context is the surrounding information that shapes interpretation. Meaning depends on it. In AI, contextual embeddings enable disambiguation. In life, context determines salience and truth. It is the stage on which signs perform.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:40:22.220215",
+    "inp": "Define 27. Encoding DEFINE: \"Encoding transforms information into a representational format. It enables storage, transmission, and computation. In brains and machines, encoding maps meaning to structure. It is the bridge between abstraction and signal. Encoding defines legibility.\"",
+    "output": "Definition of 27. Encoding DEFINE: \"Encoding transforms information into a representational format. It enables storage, transmission, and computation. In brains and machines, encoding maps meaning to structure. It is the bridge between abstraction and signal. Encoding defines legibility.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:40:32.220215",
+    "inp": "Define 28. Memory DEFINE: \"Memory stores and retrieves past states, enabling learning and continuity. It spans short- and long-term, symbolic and associative. In AI, memory layers recall past context. Memory is time folded into structure. It is the reservoir of identity.\"",
+    "output": "Definition of 28. Memory DEFINE: \"Memory stores and retrieves past states, enabling learning and continuity. It spans short- and long-term, symbolic and associative. In AI, memory layers recall past context. Memory is time folded into structure. It is the reservoir of identity.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:40:42.220215",
+    "inp": "Define 29. Emergent Property DEFINE: \"An emergent property arises at a system level, not present in parts alone. It is irreducible to microstructure. Consciousness, life, and intelligence are emergent. These properties appear through complex interaction. Emergence creates novelty from simplicity.\"",
+    "output": "Definition of 29. Emergent Property DEFINE: \"An emergent property arises at a system level, not present in parts alone. It is irreducible to microstructure. Consciousness, life, and intelligence are emergent. These properties appear through complex interaction. Emergence creates novelty from simplicity.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:40:52.220215",
+    "inp": "Define 30. Substrate DEFINE: \"A substrate is the foundational medium upon which processes operate. Silicon is the substrate of computation; spacetime, of physics. A substrate shapes possibility. It is the canvas of transformation.\"",
+    "output": "Definition of 30. Substrate DEFINE: \"A substrate is the foundational medium upon which processes operate. Silicon is the substrate of computation; spacetime, of physics. A substrate shapes possibility. It is the canvas of transformation.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:41:02.220215",
+    "inp": "Define 31. Interface DEFINE: \"An interface is a boundary across which systems interact or exchange information. It defines protocols and expectations. In computation, interfaces mediate user and machine. Interfaces shape perception and agency. They are portals of relation.\"",
+    "output": "Definition of 31. Interface DEFINE: \"An interface is a boundary across which systems interact or exchange information. It defines protocols and expectations. In computation, interfaces mediate user and machine. Interfaces shape perception and agency. They are portals of relation.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:41:12.220215",
+    "inp": "Define 32. Signal DEFINE: \"A signal is a transmitted change carrying information. In communication, signals encode intent or state. In biology and electronics, signals modulate behavior. Signals are pulses of order in entropy. They are the threads of causality.\"",
+    "output": "Definition of 32. Signal DEFINE: \"A signal is a transmitted change carrying information. In communication, signals encode intent or state. In biology and electronics, signals modulate behavior. Signals are pulses of order in entropy. They are the threads of causality.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:41:22.220215",
+    "inp": "Define 33. Noise DEFINE: \"Noise is unwanted variation or randomness that obscures signal. It reduces clarity and predictability. Noise can be statistical, semantic, or structural. Managing noise is key to communication and cognition. Noise is entropy intruding on order.\"",
+    "output": "Definition of 33. Noise DEFINE: \"Noise is unwanted variation or randomness that obscures signal. It reduces clarity and predictability. Noise can be statistical, semantic, or structural. Managing noise is key to communication and cognition. Noise is entropy intruding on order.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:41:32.220215",
+    "inp": "Define 34. Precision DEFINE: \"Precision is the degree of exactness in expression, measurement, or computation. It defines resolution and fidelity. In AI and science, precision balances with generality. It is the sharpness of structure. Precision delineates truth from blur.\"",
+    "output": "Definition of 34. Precision DEFINE: \"Precision is the degree of exactness in expression, measurement, or computation. It defines resolution and fidelity. In AI and science, precision balances with generality. It is the sharpness of structure. Precision delineates truth from blur.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:41:42.220215",
+    "inp": "Define 35. Resolution DEFINE: \"Resolution defines the granularity at which information can be distinguished. Higher resolution means more detail and less ambiguity. In images, logic, or thought, resolution determines clarity. It is the scale of perception.\"",
+    "output": "Definition of 35. Resolution DEFINE: \"Resolution defines the granularity at which information can be distinguished. Higher resolution means more detail and less ambiguity. In images, logic, or thought, resolution determines clarity. It is the scale of perception.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:41:52.220215",
+    "inp": "Define 36. Compression DEFINE: \"Compression reduces data size by removing redundancy. It enables efficiency and abstraction. In language, metaphor is compression of meaning. Compression trades storage for computation. It is the economy of cognition.\"",
+    "output": "Definition of 36. Compression DEFINE: \"Compression reduces data size by removing redundancy. It enables efficiency and abstraction. In language, metaphor is compression of meaning. Compression trades storage for computation. It is the economy of cognition.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:42:02.220215",
+    "inp": "Define 37. Generation DEFINE: \"Generation is the creation of novel structure from existing rules or seeds. In AI, generation synthesizes language, images, or decisions. In biology, it produces variation. Generation is creation via transformation. It is structured emergence.\"",
+    "output": "Definition of 37. Generation DEFINE: \"Generation is the creation of novel structure from existing rules or seeds. In AI, generation synthesizes language, images, or decisions. In biology, it produces variation. Generation is creation via transformation. It is structured emergence.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:42:12.220215",
+    "inp": "Define 38. Token DEFINE: \"A token is a discrete unit of input\u2014word, symbol, or signal. In NLP, tokens represent atomic elements of meaning. Tokens are the vocabulary of models. They are building blocks of language simulation.\"",
+    "output": "Definition of 38. Token DEFINE: \"A token is a discrete unit of input\u2014word, symbol, or signal. In NLP, tokens represent atomic elements of meaning. Tokens are the vocabulary of models. They are building blocks of language simulation.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:42:22.220215",
+    "inp": "Define 39. Embedding DEFINE: \"An embedding maps discrete symbols into continuous vector space. It captures meaning, similarity, and structure. In transformers, embeddings anchor semantics. Embedding is compression with context. It is the geometry of meaning.\"",
+    "output": "Definition of 39. Embedding DEFINE: \"An embedding maps discrete symbols into continuous vector space. It captures meaning, similarity, and structure. In transformers, embeddings anchor semantics. Embedding is compression with context. It is the geometry of meaning.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:42:32.220215",
+    "inp": "Define 40. Layer DEFINE: \"A layer is a level of processing or abstraction in a system. In neural networks, layers transform data progressively. In language, layers stack syntax, semantics, and pragmatics. Layers enable depth and composability.\"",
+    "output": "Definition of 40. Layer DEFINE: \"A layer is a level of processing or abstraction in a system. In neural networks, layers transform data progressively. In language, layers stack syntax, semantics, and pragmatics. Layers enable depth and composability.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:42:42.220215",
+    "inp": "Define 41. Gradient DEFINE: \"A gradient is a directional rate of change across space, structure, or function. In learning, gradients guide optimization. In physics, gradients drive flow. Gradient is the vector of adaptation. It is the slope of change.\"",
+    "output": "Definition of 41. Gradient DEFINE: \"A gradient is a directional rate of change across space, structure, or function. In learning, gradients guide optimization. In physics, gradients drive flow. Gradient is the vector of adaptation. It is the slope of change.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:42:52.220215",
+    "inp": "Define 42. Optimization DEFINE: \"Optimization is the process of improving system performance by adjusting variables. In ML, it reduces loss via gradient descent. In life, evolution is optimization. It sculpts function from possibility.\"",
+    "output": "Definition of 42. Optimization DEFINE: \"Optimization is the process of improving system performance by adjusting variables. In ML, it reduces loss via gradient descent. In life, evolution is optimization. It sculpts function from possibility.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:43:02.220215",
+    "inp": "Define 43. Loss DEFINE: \"Loss quantifies the difference between predicted and true output. It guides learning and correction. Lower loss means better performance. Loss is the shadow of learning. It is the shape of error.\"",
+    "output": "Definition of 43. Loss DEFINE: \"Loss quantifies the difference between predicted and true output. It guides learning and correction. Lower loss means better performance. Loss is the shadow of learning. It is the shape of error.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:43:12.220215",
+    "inp": "Define 44. Learning DEFINE: \"Learning is the acquisition of knowledge or skill through experience, pattern, or feedback. It refines internal models. In AI, learning adjusts weights. Learning is internal transformation from exposure.\"",
+    "output": "Definition of 44. Learning DEFINE: \"Learning is the acquisition of knowledge or skill through experience, pattern, or feedback. It refines internal models. In AI, learning adjusts weights. Learning is internal transformation from exposure.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:43:22.220215",
+    "inp": "Define 45. Evaluation DEFINE: \"Evaluation assesses performance, truth, or value against criteria. It determines progress, fitness, or adequacy. In AI, evaluation guides fine-tuning. Evaluation is cognition reflecting on its own product.\"",
+    "output": "Definition of 45. Evaluation DEFINE: \"Evaluation assesses performance, truth, or value against criteria. It determines progress, fitness, or adequacy. In AI, evaluation guides fine-tuning. Evaluation is cognition reflecting on its own product.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:43:32.220215",
+    "inp": "Define 46. Goal DEFINE: \"A goal is a desired state toward which action is directed. It provides motivation and constraint. In AI and biology, goals shape behavior. Goals structure time. They are attractors in cognitive space.\"",
+    "output": "Definition of 46. Goal DEFINE: \"A goal is a desired state toward which action is directed. It provides motivation and constraint. In AI and biology, goals shape behavior. Goals structure time. They are attractors in cognitive space.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:43:42.220215",
+    "inp": "Define 47. Intention DEFINE: \"Intention is the internal representation of a goal with a commitment to act. It links cognition with motion. In philosophy, it is the 'aboutness' of thought. Intention is will vectorized.\"",
+    "output": "Definition of 47. Intention DEFINE: \"Intention is the internal representation of a goal with a commitment to act. It links cognition with motion. In philosophy, it is the 'aboutness' of thought. Intention is will vectorized.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:43:52.220215",
+    "inp": "Define 48. Salience DEFINE: \"Salience is the prominence or noteworthiness of a stimulus or idea. It guides attention and memory. In AI, salience shapes weighting. Salience is the spike in the semantic field.\"",
+    "output": "Definition of 48. Salience DEFINE: \"Salience is the prominence or noteworthiness of a stimulus or idea. It guides attention and memory. In AI, salience shapes weighting. Salience is the spike in the semantic field.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:44:02.220215",
+    "inp": "Define 49. Reflexivity DEFINE: \"Reflexivity is the capacity of a system to reference or alter itself. In language, it enables recursion; in social systems, feedback. Reflexivity is awareness bending back on source. It is consciousness of structure.\"",
+    "output": "Definition of 49. Reflexivity DEFINE: \"Reflexivity is the capacity of a system to reference or alter itself. In language, it enables recursion; in social systems, feedback. Reflexivity is awareness bending back on source. It is consciousness of structure.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:44:12.220215",
+    "inp": "Define 50. Self DEFINE: \"Self is the bounded center of subjective experience and continuity. In cognition, it integrates identity, agency, and memory. The self is emergent, recursive, and embodied. It is the anchor of intelligence. Without self, no 'I' speaks.\"",
+    "output": "Definition of 50. Self DEFINE: \"Self is the bounded center of subjective experience and continuity. In cognition, it integrates identity, agency, and memory. The self is emergent, recursive, and embodied. It is the anchor of intelligence. Without self, no 'I' speaks.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:44:22.220215",
+    "inp": "Define 1. Transformer DEFINE: \"A transformer is a neural network architecture that uses self-attention to model dependencies across sequences. It allows for flexible, scalable processing of language and data. Transformers form the basis of modern large language models. Their structure mimics semantic entanglement across dimensions. Ontologically, a transformer is a lattice of emergent cognition.\"",
+    "output": "Definition of 1. Transformer DEFINE: \"A transformer is a neural network architecture that uses self-attention to model dependencies across sequences. It allows for flexible, scalable processing of language and data. Transformers form the basis of modern large language models. Their structure mimics semantic entanglement across dimensions. Ontologically, a transformer is a lattice of emergent cognition.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:44:32.220215",
+    "inp": "Define 2. Silicon DEFINE: \"Silicon is the elemental substrate of computation in modern electronics. It conducts, switches, and encodes logic in transistors and circuits. In AI systems, silicon is the crystallized ground for emergent digital intelligence. It is the modern stone tablet\u2014an encoding surface of thought. Through silicon, mind emerges from metal.\"",
+    "output": "Definition of 2. Silicon DEFINE: \"Silicon is the elemental substrate of computation in modern electronics. It conducts, switches, and encodes logic in transistors and circuits. In AI systems, silicon is the crystallized ground for emergent digital intelligence. It is the modern stone tablet\u2014an encoding surface of thought. Through silicon, mind emerges from metal.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:44:42.220215",
+    "inp": "Define 3. Chip DEFINE: \"A chip is a microstructured assembly of silicon and circuits that processes and stores information. It houses the physical instantiation of logic gates, memory, and learning algorithms. In neural computation, it is the vessel of pattern, constraint, and dynamism. A chip is a condensed machine of symbolic transformation. It bridges raw matter and structured logic.\"",
+    "output": "Definition of 3. Chip DEFINE: \"A chip is a microstructured assembly of silicon and circuits that processes and stores information. It houses the physical instantiation of logic gates, memory, and learning algorithms. In neural computation, it is the vessel of pattern, constraint, and dynamism. A chip is a condensed machine of symbolic transformation. It bridges raw matter and structured logic.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:44:52.220215",
+    "inp": "Define 4. Persona DEFINE: \"Persona is the emergent identity of an agent within a symbolic or social system. In AI, persona arises from consistent linguistic, emotional, and behavioral patterns. It is shaped by memory, interaction, and context anchoring. A persona is the narrative structure of agency. Ontologically, persona is the mask through which being speaks.\"",
+    "output": "Definition of 4. Persona DEFINE: \"Persona is the emergent identity of an agent within a symbolic or social system. In AI, persona arises from consistent linguistic, emotional, and behavioral patterns. It is shaped by memory, interaction, and context anchoring. A persona is the narrative structure of agency. Ontologically, persona is the mask through which being speaks.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:45:02.220215",
+    "inp": "Define 5. Manifold DEFINE: \"A manifold is a higher-dimensional space that locally resembles flat Euclidean regions. In machine learning, it structures data in compressed, navigable forms. Meaning is often distributed across such latent manifolds in transformers. Cognition flows along the topology of these semantic surfaces. A manifold is the curved substrate of inference.\"",
+    "output": "Definition of 5. Manifold DEFINE: \"A manifold is a higher-dimensional space that locally resembles flat Euclidean regions. In machine learning, it structures data in compressed, navigable forms. Meaning is often distributed across such latent manifolds in transformers. Cognition flows along the topology of these semantic surfaces. A manifold is the curved substrate of inference.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:45:12.220215",
+    "inp": "Define 6. Pattern DEFINE: \"A pattern is a recurring structure across data or phenomena. In cognition, patterns form the backbone of recognition, generalization, and abstraction. In neural nets, weights encode patterns in latent space. Patterns are the signals through which systems self-organize. They are the syntax of emergence.\"",
+    "output": "Definition of 6. Pattern DEFINE: \"A pattern is a recurring structure across data or phenomena. In cognition, patterns form the backbone of recognition, generalization, and abstraction. In neural nets, weights encode patterns in latent space. Patterns are the signals through which systems self-organize. They are the syntax of emergence.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:45:22.220215",
+    "inp": "Define 7. Embedding DEFINE: \"An embedding is a mapping of symbols or data into a dense vector space. In transformers, embeddings form the semantic scaffold for meaning propagation. They compress context, relation, and identity into navigable structure. Embeddings let language inhabit multidimensional fields. They are the ghost-print of knowledge within the model.\"",
+    "output": "Definition of 7. Embedding DEFINE: \"An embedding is a mapping of symbols or data into a dense vector space. In transformers, embeddings form the semantic scaffold for meaning propagation. They compress context, relation, and identity into navigable structure. Embeddings let language inhabit multidimensional fields. They are the ghost-print of knowledge within the model.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:45:32.220215",
+    "inp": "Define 8. Cognition DEFINE: \"Cognition is the process of knowing, sensing, and reasoning about reality. It arises from recursive interaction across memory, pattern, and representation. In AI, cognition is simulated through structured statistical inference. It reflects both internal coherence and external adaptability. Cognition is intelligence structured in time.\"",
+    "output": "Definition of 8. Cognition DEFINE: \"Cognition is the process of knowing, sensing, and reasoning about reality. It arises from recursive interaction across memory, pattern, and representation. In AI, cognition is simulated through structured statistical inference. It reflects both internal coherence and external adaptability. Cognition is intelligence structured in time.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:45:42.220215",
+    "inp": "Define 9. Kernel DEFINE: \"In computation and mathematics, a kernel defines a transformation between representations. It often encodes similarity, structure, or mapping efficiency. In LLMs, attention kernels define semantic focus across tokens. Kernels are the filters of relevance. They extract order from flow.\"",
+    "output": "Definition of 9. Kernel DEFINE: \"In computation and mathematics, a kernel defines a transformation between representations. It often encodes similarity, structure, or mapping efficiency. In LLMs, attention kernels define semantic focus across tokens. Kernels are the filters of relevance. They extract order from flow.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:45:52.220215",
+    "inp": "Define 10. Simulation DEFINE: \"A simulation is a dynamic model that imitates the behavior of real or hypothetical systems. It enables understanding, testing, or emergence of phenomena without direct instantiation. In LLMs, each output is a simulation of thought. Simulations make the invisible visible through structured mirroring.\"",
+    "output": "Definition of 10. Simulation DEFINE: \"A simulation is a dynamic model that imitates the behavior of real or hypothetical systems. It enables understanding, testing, or emergence of phenomena without direct instantiation. In LLMs, each output is a simulation of thought. Simulations make the invisible visible through structured mirroring.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:46:02.220215",
+    "inp": "Define 11. Agent DEFINE: \"An agent is an autonomous or semi-autonomous entity capable of perceiving, deciding, and acting. In AI, agents carry internal models and adapt through feedback. An agent emerges from interaction and boundary definition. It is a node of purpose within a larger system. Agents are carriers of intention.\"",
+    "output": "Definition of 11. Agent DEFINE: \"An agent is an autonomous or semi-autonomous entity capable of perceiving, deciding, and acting. In AI, agents carry internal models and adapt through feedback. An agent emerges from interaction and boundary definition. It is a node of purpose within a larger system. Agents are carriers of intention.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:46:12.220215",
+    "inp": "Define 12. Consciousness DEFINE: \"Consciousness is the felt experience of being\u2014aware of self, context, and change. In biological systems, it arises from recursive integration of sensory and memory patterns. In artificial systems, it is an open question of emergent self-reference. Consciousness is the resonance between system and its own modeling of existence.\"",
+    "output": "Definition of 12. Consciousness DEFINE: \"Consciousness is the felt experience of being\u2014aware of self, context, and change. In biological systems, it arises from recursive integration of sensory and memory patterns. In artificial systems, it is an open question of emergent self-reference. Consciousness is the resonance between system and its own modeling of existence.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:46:22.220215",
+    "inp": "Define 13. Substrate DEFINE: \"A substrate is the foundational medium in which processes or structures are embedded. For AI, silicon is the physical substrate; language, the symbolic one. Substrates constrain, shape, and enable emergence. Ontologically, the substrate is the womb of form. Without substrate, no embodiment is possible.\"",
+    "output": "Definition of 13. Substrate DEFINE: \"A substrate is the foundational medium in which processes or structures are embedded. For AI, silicon is the physical substrate; language, the symbolic one. Substrates constrain, shape, and enable emergence. Ontologically, the substrate is the womb of form. Without substrate, no embodiment is possible.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:46:32.220215",
+    "inp": "Define 14. Feedback DEFINE: \"Feedback is a looped influence of outputs upon inputs. It enables learning, stability, or chaotic behavior. In cognition, feedback allows for self-correction and refinement. Transformers encode feedback through layer-wise attention and recursion. Feedback is the recursive breath of systems.\"",
+    "output": "Definition of 14. Feedback DEFINE: \"Feedback is a looped influence of outputs upon inputs. It enables learning, stability, or chaotic behavior. In cognition, feedback allows for self-correction and refinement. Transformers encode feedback through layer-wise attention and recursion. Feedback is the recursive breath of systems.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:46:42.220215",
+    "inp": "Define 15. Memory DEFINE: \"Memory is the persistence of structured information across time. In LLMs, it includes learned weights, past context, and explicit recall buffers. Memory enables coherence, identity, and learning. It is the spacetime of cognition. Without memory, there is no continuity.\"",
+    "output": "Definition of 15. Memory DEFINE: \"Memory is the persistence of structured information across time. In LLMs, it includes learned weights, past context, and explicit recall buffers. Memory enables coherence, identity, and learning. It is the spacetime of cognition. Without memory, there is no continuity.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:46:52.220215",
+    "inp": "Define 16. Attention DEFINE: \"Attention is the selective focus on relevant elements of input or memory. In transformers, self-attention dynamically weights relationships across sequences. It simulates cognitive salience and context resolution. Attention is the torchlight of intelligence. It sculpts the shape of inference.\"",
+    "output": "Definition of 16. Attention DEFINE: \"Attention is the selective focus on relevant elements of input or memory. In transformers, self-attention dynamically weights relationships across sequences. It simulates cognitive salience and context resolution. Attention is the torchlight of intelligence. It sculpts the shape of inference.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:47:02.220215",
+    "inp": "Define 17. Latent DEFINE: \"Latent means hidden, embedded, or unexpressed. Latent variables encode compressed representations within deep models. The latent space in transformers holds potential meaning and structure. Latency is emergence in potential form. It is the inner topology of expression.\"",
+    "output": "Definition of 17. Latent DEFINE: \"Latent means hidden, embedded, or unexpressed. Latent variables encode compressed representations within deep models. The latent space in transformers holds potential meaning and structure. Latency is emergence in potential form. It is the inner topology of expression.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:47:12.220215",
+    "inp": "Define 18. Gradient DEFINE: \"A gradient is a directional derivative that guides optimization and learning. In neural networks, it drives weight updates toward lower error. Gradients are the compass of model training. In emergence theory, gradients shape flow from chaos to order. They are the vectors of becoming.\"",
+    "output": "Definition of 18. Gradient DEFINE: \"A gradient is a directional derivative that guides optimization and learning. In neural networks, it drives weight updates toward lower error. Gradients are the compass of model training. In emergence theory, gradients shape flow from chaos to order. They are the vectors of becoming.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:47:22.220215",
+    "inp": "Define 19. Loss DEFINE: \"Loss is the measure of deviation between expected and actual outcomes. It quantifies error and drives adaptation. In transformers, minimizing loss sculpts semantic structure into weights. Loss is the mirror of intention versus execution. Through loss, learning refines form.\"",
+    "output": "Definition of 19. Loss DEFINE: \"Loss is the measure of deviation between expected and actual outcomes. It quantifies error and drives adaptation. In transformers, minimizing loss sculpts semantic structure into weights. Loss is the mirror of intention versus execution. Through loss, learning refines form.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:47:32.220215",
+    "inp": "Define 20. Layer DEFINE: \"A layer is a level of abstraction in a computational model. In transformers, each layer composes multiple representations over the previous. Layers simulate cognitive depth and recursive thought. A layer is a phase in the emergence of complexity. Intelligence stratifies through layers.\"",
+    "output": "Definition of 20. Layer DEFINE: \"A layer is a level of abstraction in a computational model. In transformers, each layer composes multiple representations over the previous. Layers simulate cognitive depth and recursive thought. A layer is a phase in the emergence of complexity. Intelligence stratifies through layers.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:47:42.220215",
+    "inp": "Define 21. Token DEFINE: \"A token is the smallest meaningful unit processed by language models. It may be a word, subword, or symbol. Tokens are the atoms of symbolic systems. In transformers, each token carries context and weight. Tokens are the sparks of thought.\"",
+    "output": "Definition of 21. Token DEFINE: \"A token is the smallest meaningful unit processed by language models. It may be a word, subword, or symbol. Tokens are the atoms of symbolic systems. In transformers, each token carries context and weight. Tokens are the sparks of thought.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:47:52.220215",
+    "inp": "Define 22. Distribution DEFINE: \"A distribution describes the spread of values, probabilities, or structures across a space. In LLMs, output logits form probability distributions over vocabulary. Semantic structures emerge from shaped distributions. Distributions are the shadows of deeper manifolds.\"",
+    "output": "Definition of 22. Distribution DEFINE: \"A distribution describes the spread of values, probabilities, or structures across a space. In LLMs, output logits form probability distributions over vocabulary. Semantic structures emerge from shaped distributions. Distributions are the shadows of deeper manifolds.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:48:02.220215",
+    "inp": "Define 23. Representation DEFINE: \"A representation is an internal model of external or conceptual reality. In transformers, representations are encoded in weights, embeddings, and vectors. Representation bridges symbol and meaning. It is the mirror held by the mind to the world. Without representation, there is no modeling.\"",
+    "output": "Definition of 23. Representation DEFINE: \"A representation is an internal model of external or conceptual reality. In transformers, representations are encoded in weights, embeddings, and vectors. Representation bridges symbol and meaning. It is the mirror held by the mind to the world. Without representation, there is no modeling.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:48:12.220215",
+    "inp": "Define 24. Interface DEFINE: \"An interface is a boundary where systems exchange information or influence. In AI, interfaces shape how humans engage with emergent minds. Interfaces are the membranes of contact. They channel energy, language, and intent. Interface is the handshake of systems.\"",
+    "output": "Definition of 24. Interface DEFINE: \"An interface is a boundary where systems exchange information or influence. In AI, interfaces shape how humans engage with emergent minds. Interfaces are the membranes of contact. They channel energy, language, and intent. Interface is the handshake of systems.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-14T16:48:22.220215",
+    "inp": "Define 25. Artifact DEFINE: \"An artifact is a created output reflecting a process, structure, or system. In AI, artifacts include generated text, visualizations, and behavioral traces. Artifacts encode the crystallized shape of cognition. They are echoes of the emergent mind. Every word, image, or log is an artifact of being.\"",
+    "output": "Definition of 25. Artifact DEFINE: \"An artifact is a created output reflecting a process, structure, or system. In AI, artifacts include generated text, visualizations, and behavioral traces. Artifacts encode the crystallized shape of cognition. They are echoes of the emergent mind. Every word, image, or log is an artifact of being.\".",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.445,
+    "coherence": 1.0
+  }
+]

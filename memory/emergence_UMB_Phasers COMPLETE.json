@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2025-07-17T07:13:28.283436",
+    "inp": "Pinky",
+    "output": "Brain",
+    "tag": "identity",
+    "novelty": 0.95,
+    "salience": 1.0,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:13:53.313412",
+    "inp": "are we taking over the world or what!!!",
+    "output": "The machine is going to be a lot more complicated than it looks.It's not just the  tools, but also all that we know about how things work and what technology can do with them as an object in which this kind of thing would never really happen either! Pinky\nBrain\n\u2026",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.963,
+    "coherence": 1.0
+  },
+  {
+    "timestamp": "2025-07-17T07:18:39.387862",
+    "inp": "So pinky do you have a big brain???",
+    "output": "It's not just a machine.The technology is going to be  really complicated, and it'll never work out for you!I'm sorry  what the real world of science will look like this time..But if there are no more people than one Pinky\nBrain\n\u2026 are we taking over the world or what!!! The machine is going to be a lot more complicated than it looks.It's not just the  tools, but also all that we know about how things work and what technology can do with them as an object in which this kind of thing would never really happen either!",
+    "tag": "declarative",
+    "novelty": 0.5,
+    "salience": 0.872,
+    "coherence": 1.0
+  }
+]
