@@ -9,8 +9,8 @@ import subprocess
 import sys
 import json
 
-REPO_URL = "https://github.com/oldwalls/phasers.git"
-PROJECT_DIR = "phasers"
+REPO_URL = "https://github.com/oldwalls/sapphire.git"
+PROJECT_DIR = "sapphire"
 UMB_FILE = "emergence_UMB.json"
 
 # --- STEP 1: Clone the repo ---
@@ -21,18 +21,11 @@ def clone_repo():
         print("[•] Cloning repo...")
         subprocess.run(["git", "clone", REPO_URL], check=True)
 
-# --- STEP 2: Set up virtual environment (optional but recommended) ---
-def setup_venv():
-    print("[•] Setting up virtual environment...")
-    subprocess.run([sys.executable, "-m", "venv", "phasers_env"])
-    print("[✓] To activate: source phasers_env/bin/activate (Linux/macOS)")
-    print("                 phasers_env\\Scripts\\activate (Windows)")
-
 # --- STEP 3: Install dependencies ---
 def install_requirements():
     print("[•] Installing Python dependencies...")
     deps = [
-        "transformers==4.40.0",
+        "transformers",
         "torch",  # assumes CUDA or CPU PyTorch will be handled by pip
         "nltk",
         "sentence-transformers",
@@ -51,13 +44,6 @@ def setup_nltk():
         import nltk
         nltk.download("punkt")
 
-# --- STEP 5: Verify UMB JSON presence ---
-def verify_umb():
-    umb_path = os.path.join(PROJECT_DIR, UMB_FILE)
-    if os.path.exists(umb_path):
-        print(f"[✓] Found memory UMB file: {UMB_FILE}")
-    else:
-        print(f"[!] WARNING: {UMB_FILE} not found. You may need to pull it from the repo or place it manually.")
 
 # --- STEP 6: Final usage message ---
 def launch_message():
@@ -71,10 +57,9 @@ def launch_message():
 if __name__ == "__main__":
     try:
         clone_repo()
-        setup_venv()
+
         install_requirements()
         setup_nltk()
-        verify_umb()
         launch_message()
     except Exception as e:
         print(f"[!] Install failed: {e}")
