@@ -35,6 +35,36 @@ continuing to test the model output in different UMB presets, as well as searchi
 
 Remy
 
+## Critical Bugs #3 update - preset search.
+
+Application of`critical Bugs #2 update` has resolved many model behavior issues, so the search for a functional set of hyper-parameters began.  
+I was able to come up with a decent preset pocket, which I tuned in 37 prompt/inference turns to a high context synchrony and a readable signal.
+
+here it is:  
+
+```
+  "target": {  
+    "temp": 0.567,  
+    "top_n": 17,  
+    "top_p": 0.72,  
+    "top_k": 42,  
+    "repetition_penalty": 1.35,  
+    "max_forward_tokens": 55,  
+    "max_reply_sentences": 3,  
+    "weight": 0.333,  
+    "tau": 0.246,  
+    "lam": 0.65,  
+    "n_sieve": 7,  
+    "inference_mem": 1,  
+    "sieve_rank_mem": 2,  
+    "sigma": 0.222,  
+    "prompt_constr": "memory;prompt;memory;tail;prompt;memory;",  
+    "top_t": 7  
+  }
+```  
+
+---
+
 ## A little bit about the project itself.
 
 ### Genesis
