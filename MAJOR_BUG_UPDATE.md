@@ -4,7 +4,7 @@ Hello!
 
 This is Remy - the creator of `Sapphire`.
 
-## Critical Bug – Section-break token (`"…"`)  
+## Critical Bug - Section-break token (`"…"`)  
 (was to be a new feature, which did not pan out)
 
 I have tested using a section break token `"..."`,  as a delimiter between memory fragments. 
@@ -22,6 +22,18 @@ When `"..."` is replaced with a simple `". "` , it achieves a quick signal-to-no
 I am in process of testing the behavior.
 
 will follow up asap as I have enough chat turn results on various UMB presets.
+
+## Critical Bugs #2 - `CRLF` token & lack of `". "` separator between prompt and inference.
+
+I suspect that line 384 of `sapphire_core.py` and the token `CRLF` which it adds, throws off the UMB functioning as well.
+
+corrected version should state:
+
+384: `scored.append((f"{mem.inp.strip()}" + ". " + f"{mem.output.strip()}" + f". " , min(max(blend, .35), .98), mem.timestamp))`
+
+continuing to test the model output in different UMB presets, as well as searching for hyper-parameter configuration goldilocks pockets having increased S/N ratio.
+
+Remy
 
 ## A little bit about the project itself.
 
