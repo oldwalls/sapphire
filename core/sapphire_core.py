@@ -12,7 +12,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 import os, re, json, argparse, glob
-from transformers import AutoModelForCausalLM, AutoTokenizer
+###########from transformers import AutoModelForCausalLM, AutoTokenizer
 from dataclasses import dataclass
 from datetime import datetime
 from typing import List, Sequence, Tuple
