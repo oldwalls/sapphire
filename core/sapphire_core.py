@@ -1,18 +1,10 @@
 from __future__ import annotations
 
-"""
-gpt2_v_3 · NHCE — Soft-Logit + TXT-Trainer  (v3.1)
---------------------------------------------------
-Adds one-command fine-tuning on a .txt corpus and auto-load of
-latest checkpoint for chat mode.
-"""
-
 print(" ⏱  starting up………loading libraries, models and settings………\n")
 import warnings
 warnings.filterwarnings("ignore")
 
 import os, re, json, argparse, glob
-###########from transformers import AutoModelForCausalLM, AutoTokenizer
 from dataclasses import dataclass
 from datetime import datetime
 from typing import List, Sequence, Tuple
@@ -317,11 +309,6 @@ class NHCE_Engine:
         intent = self._intent(model_out)
         novelty = self._novelty(model_out)
         
-#        base = {
-#            "identity": .9, "reflective": .8, "recursive": .75,
-#            "interrogative": .6, "declarative": .5
-##        }[intent]
-        
         base = 1
         salience = 0.5
         node = MemoryNode(now, usr_in, model_out, intent, salience, novelty, 1.0)
@@ -381,7 +368,7 @@ class NHCE_Engine:
             
 ### use corpora training data encoding for direct inference out
             
-            scored.append((f"{mem.inp.strip()}\n" + f"{mem.output.strip()}\n" + f"…" , min(max(blend, .35), .98), mem.timestamp))
+            scored.append((f"{mem.inp.strip()}" + '. ' + f"{mem.output.strip()}" + f". " , min(max(blend, .35), .98), mem.timestamp))
             total_memory = ''
             
             ctr = ctr + 1
