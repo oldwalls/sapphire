@@ -64,6 +64,22 @@ here it is:
 ```  
 
 ---
+----
+
+## Critical Bugs CLOSURE
+
+I have found what i was lookig for. The pach from Update `critical bugs #2` fixes the token issue for the model  
+
+the preset `target` is the stable island for now, and root of scanning the hyper-parameter vector for pehaps even better config.  
+
+I have also included a [MANUAL.md](https://github.com/oldwalls/sapphire/blob/main/MANUAL.md)
+
+*Sincerely, 
+Remy*
+
+----
+
+-----
 
 ## A little bit about the project itself.
 
