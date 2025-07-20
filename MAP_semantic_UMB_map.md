@@ -19,6 +19,10 @@ Available for pre-alpha testing - light code reading required
 
 [umb_3_d_plot.py](https://github.com/oldwalls/sapphire/blob/main/umb_3_d_plot.py)
 
+```
+python umb_3_d_plot.py --target_clusters 5 --datarot 45 --verbose
+```
+
 #### legend
 
 1. sizes of circles are dependent of their count in UMB memory  
