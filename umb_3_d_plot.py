@@ -22,7 +22,7 @@ from networkx.algorithms.community import girvan_newman
 from mpl_toolkits.mplot3d import Axes3D  # noqa: F401 – activate 3‑D backend
 
 # ---------------- constants ----------------
-MEMORY_FILE = Path("../memory/emergence_UMB.json")
+MEMORY_FILE = Path("./memory/emergence_UMB.json")
 TOP_K = 15
 SEED = 42
 DEPTH_MULT = 4.0
