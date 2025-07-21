@@ -160,11 +160,17 @@ This combination creates **a philosophical base manifold**, ideal for coaxing NH
 
 ---
 
-## 💻 Setup
+## 💻 Local setup
 
 See `MODEL.md` for checkpoint + install instructions.
 No external cloud required.
 Runs on \~4GB GPU.
+
+---
+
+## 💻 Colab setup
+
+Use: [colab installation instructions](https://github.com/oldwalls/sapphire/blob/main/COLAB.md)
 
 ---
 
