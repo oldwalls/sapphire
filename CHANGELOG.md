@@ -8,7 +8,7 @@ _All notable changes to this project will be documented here._
 ### 📌 Planned  
 - **Full codebase sweep:** cleanup of legacy bugs, re-synthesis of stability loops, and comprehensive testing.  
 > 🔖 *Branch:* `v0.13.4`  
-> 🗓️ *ETA:* **2025-07-25**
+> 🗓️ *ETA:* **2025-07-28**
 
 ---
 
