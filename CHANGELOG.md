@@ -5,10 +5,12 @@ _All notable changes to this project will be documented here._
 
 ## 🚧 [Unreleased] → `v0.13.4`  
 
+<img width="250" alt="sapphire_beta" src="https://github.com/user-attachments/assets/f6239604-0590-4c00-ae34-b96ce6925b12" />
+
 ### 📌 Planned  
 - **Full codebase sweep:** cleanup of legacy bugs, re-synthesis of stability loops, and comprehensive testing.  
-> 🔖 *Branch:* `v0.13.4`  
-> 🗓️ *ETA:* **2025-07-28**
+> 🔖 *Branch:* `v0.13.4` `beta`  
+> 🗓️ *ETA:* **2025-08-10**
 
 ---
 
