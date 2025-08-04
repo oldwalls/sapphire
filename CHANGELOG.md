@@ -3,15 +3,29 @@ _All notable changes to this project will be documented here._
 
 ---
 
-## 🚧 [Unreleased] → `v0.13.4`  
+## 🚧 [Unreleased] → `Sapphire β`
 
-<img width="250" alt="sapphire_beta" src="https://github.com/user-attachments/assets/f6239604-0590-4c00-ae34-b96ce6925b12" />
+<img width="300" alt="sapphire_b" src="https://github.com/user-attachments/assets/89d47a0f-a2df-477c-85ee-c56cc33cb07b" />
+
 
 ### 📌 Planned  
 - **Full codebase sweep:** cleanup of legacy bugs, re-synthesis of stability loops, and comprehensive testing.  
-> 🔖 *Branch:* `v0.13.4` `beta`  
+> 🔖 *Branch:* `Sapphire β`
 > 🗓️ *ETA:* **2025-08-10**
 
+---
+
+## Coming In Sapphire β
+
+### Hyperparameter Dashboard
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8a51727e-ae97-496e-97dd-0359f57d8c96" />
+
+### Prompt Waveform Viewer
+
+<img width="3827" height="1158" alt="image" src="https://github.com/user-attachments/assets/1b97b443-d897-4988-976a-6c5009ad662f" />
+
+---
 ---
 
 ### ✨ Added
